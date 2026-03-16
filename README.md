@@ -30,7 +30,7 @@ cd cours_php
 3. Placer le projet dans le dossier de votre serveur local puis ouvrir dans le navigateur :
 
 ```bash
-    http://localhost/fichier.php
+    http://localhost/nom_du_fichier.php
 ```
 
 ## Auteur
