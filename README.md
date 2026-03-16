@@ -15,7 +15,7 @@ Ce petit projet contient trois scripts PHP d'exemples pour apprendre les bases d
 
 ## Installation
 
-1. Clonez le dépôt (remplacez l’URL par l’URL du dépôt GitHub) :
+1. Cloner le repo :
 
 ```bash
 git clone https://github.com/yrieix-cisterne-nws/cours_php.git
@@ -27,17 +27,11 @@ git clone https://github.com/yrieix-cisterne-nws/cours_php.git
 cd cours_php
 ```
 
-3. Lancez le serveur PHP intégré :
+3. Placer le projet dans le dossier de votre serveur local puis ouvrir dans le navigateur :
 
 ```bash
-php -S localhost:8000
+    http://localhost/fichier.php
 ```
-
-4. Ouvrez votre navigateur :
-
-- `http://localhost:8000/date.php`
-- `http://localhost:8000/film.php`
-- `http://localhost:8000/naissance.php`
 
 ## Auteur
 
